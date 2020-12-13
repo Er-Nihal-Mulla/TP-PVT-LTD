@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TP-PVT-LTD/static/css/main.c35e5d1f.chunk.css",
+    "main.js": "/TP-PVT-LTD/static/js/main.eeeb4cee.chunk.js",
+    "main.js.map": "/TP-PVT-LTD/static/js/main.eeeb4cee.chunk.js.map",
+    "runtime-main.js": "/TP-PVT-LTD/static/js/runtime-main.27d99069.js",
+    "runtime-main.js.map": "/TP-PVT-LTD/static/js/runtime-main.27d99069.js.map",
+    "static/js/2.698931f5.chunk.js": "/TP-PVT-LTD/static/js/2.698931f5.chunk.js",
+    "static/js/2.698931f5.chunk.js.map": "/TP-PVT-LTD/static/js/2.698931f5.chunk.js.map",
+    "index.html": "/TP-PVT-LTD/index.html",
+    "precache-manifest.0d8111a765df71144790b9addff74731.js": "/TP-PVT-LTD/precache-manifest.0d8111a765df71144790b9addff74731.js",
+    "service-worker.js": "/TP-PVT-LTD/service-worker.js",
+    "static/css/main.c35e5d1f.chunk.css.map": "/TP-PVT-LTD/static/css/main.c35e5d1f.chunk.css.map",
+    "static/js/2.698931f5.chunk.js.LICENSE.txt": "/TP-PVT-LTD/static/js/2.698931f5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27d99069.js",
+    "static/js/2.698931f5.chunk.js",
+    "static/css/main.c35e5d1f.chunk.css",
+    "static/js/main.eeeb4cee.chunk.js"
+  ]
+}
